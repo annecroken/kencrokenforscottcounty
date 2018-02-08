@@ -1,13 +1,15 @@
 /***** Theme Primary Color (Blue) ******/
 
+
 /* color */
+
 a:hover,
 p a:hover,
-h1 a:hover, 
-h2 a:hover, 
-h3 a:hover, 
-h4 a:hover, 
-h5 a:hover, 
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
 h6 a:hover,
 .social-icons li a:hover,
 .nav-list > li > a:hover,
@@ -41,11 +43,13 @@ h6 a:hover,
 .footer-links li a:hover,
 .supporter-list li a .toltip::before,
 .click-users li a.color,
-.s-recent-news ul li:hover::before
-{ color: #f90000;}
-
+.s-recent-news ul li:hover::before {
+    color: #1341b7;
+    ;
+}
 
 /* Background Color */
+
 .btn,
 .multipul-lines li.bg-1,
 .play-icon span,
@@ -80,10 +84,12 @@ h6 a:hover,
 .supporter-list li a .toltip,
 .sticky-nav .nav-list > li > ul li a,
 .arthor-slider .slick-arrow:hover,
-.footer-social .social-icons li a:hover
-{ background: #f90000;}
+.footer-social .social-icons li a:hover {
+    background: #408806;
+}
 
 /* Border Color */
+
 .quick-links-figure::before,
 .left-heading,
 .blog-detail .btn,
@@ -106,16 +112,20 @@ h6 a:hover,
 .new-arthor.active,
 .main-heading-holder.style-2 h2::before,
 .new-figure:hover .new-arthor,
-.arthor-slider .slick-arrow:hover
-{ border-color: #f90000;}
-
+.arthor-slider .slick-arrow:hover {
+    border-color: #1341b7;
+}
 
 /* Background RGba Color Dark */
+
 .inner-banner.team::before,
 .address,
-.instagram-figure .overlay
-{ background: rgba( 235, 27, 43, 0.9);}
+.instagram-figure .overlay {
+    background: rgba( 64, 136, 6, 0.9);
+}
 
 /* Background RGba Color Light */
-.quick-links-figure:hover .overlay
-{ background: rgba( 235, 27, 43, 0.7);}
+
+.quick-links-figure:hover .overlay {
+    background: rgba( 64, 136, 6, 0.7);
+}
